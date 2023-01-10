@@ -1,7 +1,7 @@
 import { RandomCarAlgorithm } from '../main/random-vehicle-algorithm';
 import { randomNumbers } from './utils/random-numbers';
 
-const customerNames = ['Lucas', 'maria', 'leonardo', 'julia'];
+const customerNames = ['Lucas', 'maria', 'leonardo'];
 
 for (let i = 0; i < 10; i++) {
   const vehicle = RandomCarAlgorithm();

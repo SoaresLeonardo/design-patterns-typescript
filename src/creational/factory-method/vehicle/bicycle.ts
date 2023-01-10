@@ -1,5 +1,4 @@
 import { Vehicle } from './vehicle';
-
 export class Bicycle implements Vehicle {
   constructor(private name: string) {}
 
